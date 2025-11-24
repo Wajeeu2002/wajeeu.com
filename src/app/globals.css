@@ -191,6 +191,13 @@ body {
   margin-bottom: 1.5rem;
 }
 
+@media (max-width:768px) {
+  .home-header{
+   margin-top: 2.5rem;
+
+  }
+}
+
 .home-paragraph {
   margin-top: 2rem;
   color: #4a5568;

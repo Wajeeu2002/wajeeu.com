@@ -2,7 +2,7 @@
 
 export default function Hero() {
   return (
-    <section className="text-center home-section pt-4 sm:pt-20 lg:pt-0">
+    <section className="text-center home-section ">
       <h1 className="section-header home-header">Front-End Developer</h1>
       <p className="home-paragraph">
         Hello, I am <b className="highlight-text">Ibrahim Wajeeu</b>.
